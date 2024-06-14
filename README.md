@@ -1,4 +1,4 @@
 # Доп. проект "Карты подскажут"
 * **Описание проекта:** проект направлен на отработку навыков создания "резиновой" верстки;
 * **Автор:** студент, Чугунов Д.Л.;
-* **Ссылка на репозиторий:** git@github.com:denischugunov/karty-podskazhut-main.git.
+* **Ссылка на репозиторий:** https://github.com/denischugunov/denischugunov-karty-podskazhut-main
